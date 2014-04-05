@@ -27,5 +27,6 @@ Follow 2 and 3 of Windows :)
 Run Java Program:
 -----------------
 Assuming you already have compiled (and in case of windows, set path), run
-	java ASCII "String"
+
+1.	java ASCII "String"
 	eg:	java ASCII "This is a test string"
